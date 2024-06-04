@@ -1,10 +1,10 @@
 # identification
-ERCİYES ÜNİVERSİTESİ
-Dr. Öğr. Üyesi FEHİM KÖYLÜ
-Adı Soyadı:Muhammed nasif
-Öğr No:1030510009
+ERCİYES ÜNİVERSİTESİ---
+Dr. Öğr. Üyesi FEHİM KÖYLÜ---
+ADI SOYADI:MUHAMMED NASİF---
+ÖĞR NO:1030510009---
 MOBİLE APPLİCATİON APP USİNG FLUTTER AND DART LANGUAGE
-My app name MealMenu
+
 
 # MealMenu  Application 
 I divided the project into 4 CLASSES
