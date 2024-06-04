@@ -1,17 +1,18 @@
-# flutter_application_2
+# identification
+ERCİYES ÜNİVERSİTESİ
+Dr. Öğr. Üyesi FEHİM KÖYLÜ
+Adı Soyadı:Muhammed nasif
+Öğr No:1030510009
+MOBİLE APPLİCATİON APP USİNG FLUTTER AND DART LANGUAGE
+My app name MealMenu
 
-A new Flutter project.
+# MealMenu  Application 
+I divided the project into 4 CLASSES
 
-## Getting Started
+1.catagory.dart:This code defines a Category class that represents a category with an ID, name, image URL, and description. It provides a constructor to create new categories and a factory method to easily create them from JSON data.
 
-This project is a starting point for a Flutter application.
+2.main_catagory_screen.dart:this code effectively fetches categories from an API, displays them in a user-friendly grid layout, and allows navigation to a detailed screen for each category.
 
-A few resources to get you started if this is your first Flutter project:
+3.main_list_screen.dart:this code allows users to view meals within a specific category fetched from an API and displayed in a user-friendly grid layout.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# MealMenu" 
+4.main.dart:his code sets up the basic structure for your Flutter application and launches the MainCategoryScreen as the starting point for users to interact with your app.
